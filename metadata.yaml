@@ -1,0 +1,28 @@
+_repo: The-Art-of-the-Exposition-Personal-Impressions-of-the-Architecture-Sculpture-Mural-Decorations__5771
+creator:
+  author:
+    agent_name: Neuhaus, Eugen
+    aliases:
+    - Neuhaus, Eugene
+    - Neuhaus, Karl Eugen
+    birthdate: 1879
+    deathdate: 1963
+    gutenberg_agent_id: '1541'
+    url: http://www.gutenberg.org/2009/agents/1541
+description: ''
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5771'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Art -- Exhibitions'
+- !lcc 'N'
+- !lcsh 'Panama-Pacific International Exposition (1915 : San Francisco, Calif.)'
+title: "The Art of the Exposition\r\nPersonal Impressions of the Architecture, Sculpture,\
+  \ Mural Decorations, Color Scheme & Other Aesthetic Aspects of the Panama-Pacific\
+  \ International Exposition"
+url: http://www.gutenberg.org/ebooks/5771
