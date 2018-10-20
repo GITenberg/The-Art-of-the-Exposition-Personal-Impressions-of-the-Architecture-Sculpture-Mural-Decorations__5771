@@ -1,5 +1,5 @@
 _repo: The-Art-of-the-Exposition-Personal-Impressions-of-the-Architecture-Sculpture-Mural-Decorations__5771
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -28,6 +28,7 @@ subjects:
 - !lcsh 'Art -- Exhibitions'
 - !lcc 'N'
 - !lcsh 'Panama-Pacific International Exposition (1915 : San Francisco, Calif.)'
+- GITenberg
 title: "The Art of the Exposition\r\nPersonal Impressions of the Architecture, Sculpture,\
   \ Mural Decorations, Color Scheme & Other Aesthetic Aspects of the Panama-Pacific\
   \ International Exposition"
